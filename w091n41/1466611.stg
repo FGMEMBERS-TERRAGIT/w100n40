@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.244028 41.843639 105.46 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.2425 41.843889 101.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.233056 41.815 65.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.230278 41.847222 128.06 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.229167 41.769722 80.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.205 41.86 134.91 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.021944 41.873889 130.36 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -90.241111 41.825833 -256.25 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -90.234187 41.807468 -250.33 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -90.23359 41.807532 -249.29 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -90.195833 41.802778 173.41 180

@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ils.xml -93.256169 44.120083 344.69 56.62
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.495028 44.063861 225.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.385833 44.045833 247.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.253889 44.093611 202.51 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -93.384444 44.046111 -54.2 180

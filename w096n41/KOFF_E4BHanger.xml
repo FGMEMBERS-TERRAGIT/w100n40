@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ 
+<!-- The E4B hanger at Offutt AFB in Nebraska can house two E4B (747's) nose to nose -->
+<!-- Authored by Jon Bourgeois -->
+ 
+ <PropertyList>
+	<path>KOFF_E4BHanger.ac</path>
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>20000</max-m>
+	</animation>
+
+</PropertyList>

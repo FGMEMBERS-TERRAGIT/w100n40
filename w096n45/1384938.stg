@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -95.318472 45.644306 419.42 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.383639 45.672167 278.31 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.382222 45.664722 272.47 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.3675 45.650556 263.86 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.360111 45.727194 333.21 180
