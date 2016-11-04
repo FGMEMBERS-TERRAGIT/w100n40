@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.110917 44.615417 156.36 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.078056 44.571389 218.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -93.016111 44.590833 125.36 180
+OBJECT_SHARED Models/Airport/marker.ac -93.207969 44.620408 285.13 180
+OBJECT_SHARED Models/Airport/marker.ac -93.116658 44.586994 289.55 180

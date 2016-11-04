@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/tacan.xml -90.259019 43.942883 274.22 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.489722 43.898889 316.7 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.473889 43.906111 354.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.470833 43.907778 294.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.4575 43.953611 180.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.454444 43.9025 304.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.391389 43.964278 146.37 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.286389 43.911667 159.93 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.255278 43.927778 159.81 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.255167 43.926028 167.85 180
+OBJECT_SHARED Models/Airport/localizer.xml -90.276211 43.938739 277.04 358.58

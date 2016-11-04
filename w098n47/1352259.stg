@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.228056 47.050833 186.34 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.068611 47.094444 170.37 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -97.200833 47.007778 45.22 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -97.195 47.01 -2 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -97.195 47.0125 35.1 180

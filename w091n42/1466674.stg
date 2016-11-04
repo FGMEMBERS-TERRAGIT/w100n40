@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.40325 42.765778 261.01 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.402778 42.765278 266.42 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -90.389833 42.762194 259.18 180
+OBJECT_STATIC UW-Platteville-M.xml -90.406945 42.763949 409.69 30
