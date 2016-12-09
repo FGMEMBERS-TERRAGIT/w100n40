@@ -44,3 +44,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.670964 41.670938 243.14 359.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.668825 41.670937 243.01 359.98
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.668641 41.670937 243 9.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.668433 41.670992 243 19.49
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56889 41.69578 272.95 80.94
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56951 41.69401 273.63 194.82
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56969 41.69501 271.70 179.87
+# END dsf2stg

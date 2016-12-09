@@ -27,3 +27,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.365029 46.635674 388.95 313.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.359021 46.631211 385.79 312.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.355259 46.628416 384.96 313.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.351564 46.625732 388.2 313.39
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -94.38538 46.72797 394.60 193.58
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.38476 46.72829 394.95 11.31
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.38446 46.72742 394.00 16.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -94.38429 46.72786 394.69 16.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -94.38480 46.72737 393.91 10.62
+# END dsf2stg
