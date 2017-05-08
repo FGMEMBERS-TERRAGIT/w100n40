@@ -119,3 +119,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.756034 40.289436 392.42 181.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.751559 40.289446 388.17 180.12
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.750421 40.289447 386.98 180.15
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.750096 40.289448 386.77 180.1
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -96.75010 40.29996 397.64 319.66
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.75055 40.29965 397.66 87.17
+# END dsf2stg
