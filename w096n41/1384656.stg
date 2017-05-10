@@ -204,3 +204,4 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -95.90075 41.30161 296.26 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -95.90180 41.30264 296.35 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -95.90255 41.30339 296.47 0
 # END dsf2stg
+OBJECT_STATIC bkbridge.ac -95.924616 41.266012 294.66 104
