@@ -27,3 +27,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.030064 48.582873 243.71 359.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.029741 48.582868 243.68 359.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.018743 48.582903 243.76 0.23
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.000367 48.582939 244.61 0.5
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.17733 48.61534 0.00 358.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.17735 48.61586 242.99 90
+# END dsf2stg

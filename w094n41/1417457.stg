@@ -40,3 +40,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.510568 41.813599 266.92 137.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.509913 41.813073 267.06 132.85
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.509184 41.812487 268.72 132.84
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.500213 41.804984 262.03 296.87
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.56546 41.76056 0.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.56600 41.75931 292.09 359.46
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.56663 41.76053 291.85 90
+# END dsf2stg

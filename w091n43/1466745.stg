@@ -8,3 +8,12 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -90.582222 43.896389 308.54
 OBJECT_SHARED Models/Communications/radio-medium.xml -90.57925 43.960056 283.52 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -90.560556 43.988889 258.55 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -90.514444 43.968611 159.3 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -90.51593 43.98325 0.00 90
+OBJECT_SHARED Models/lib/cars10.ac -90.51612 43.98325 293.30 90
+OBJECT_SHARED Models/lib/cars10.ac -90.51625 43.98325 292.79 90
+OBJECT_SHARED Models/lib/cars10.ac -90.51529 43.98465 292.34 8.53
+OBJECT_SHARED Models/lib/cars10.ac -90.51530 43.98474 292.99 8.53
+# END dsf2stg

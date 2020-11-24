@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-tall.xml -97.589722 44.965556 466.8 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -97.580833 44.964722 197.8 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -97.573889 44.975 223.82 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -97.71417 44.89556 0.00 44.9
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -97.71449 44.89578 545.12 225.56
+# END dsf2stg

@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.185 48.475 399.75 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.175278 48.491667 280.4 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -99.23669 48.48585 0.00 90
+OBJECT_SHARED Models/lib/cars6.ac -99.23669 48.48604 450.48 270
+OBJECT_SHARED Models/lib/cars6.ac -99.23639 48.48604 450.55 270
+# END dsf2stg

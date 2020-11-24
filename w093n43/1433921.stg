@@ -90,3 +90,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.506246 43.001927 297.93 312.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.505377 43.001252 298.74 337.56
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.500967 43.001356 301.94 2.19
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.500319 43.001377 302.53 2
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/canopy38x8.ac -92.60728 43.06936 0.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.60728 43.06936 0.00 180
+OBJECT_SHARED Models/lib/fboModern1.ac -92.60689 43.06892 339.00 180
+# END dsf2stg

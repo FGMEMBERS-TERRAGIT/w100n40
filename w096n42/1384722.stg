@@ -3,3 +3,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -95.460556 42.275556 344.78
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.460278 42.275833 346.22 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.392 42.255028 319.02 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -95.333611 42.25 450 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -95.43975 42.33083 0.00 90
+OBJECT_SHARED Models/lib/LongRow.ac -95.44065 42.33127 379.20 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.44091 42.33146 379.87 90
+# END dsf2stg

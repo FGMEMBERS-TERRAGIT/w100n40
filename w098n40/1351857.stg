@@ -11,3 +11,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -97.55475 40.828333 397.36 
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.541806 40.828111 398.45 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.540667 40.829806 411.27 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.5205 40.825222 376.86 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -97.62765 40.86485 507.11 0
+# END dsf2stg

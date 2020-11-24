@@ -4,3 +4,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -98.614167 44.026944 432.11
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.610556 44.028333 460.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.588056 44.05 442.54 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -98.748291 44.003169 536.05 343.8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -98.53336 44.06519 0.00 228.99
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -98.53368 44.06539 467.07 48.99
+# END dsf2stg

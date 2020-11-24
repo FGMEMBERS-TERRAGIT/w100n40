@@ -1,1 +1,8 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.031389 45.425556 366 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -99.00940 45.45025 0.00 270
+OBJECT_SHARED Models/lib/MedHangar.ac -99.00968 45.44862 460.89 0
+OBJECT_SHARED Models/lib/MedHangar.ac -99.00967 45.44902 460.90 0
+# END dsf2stg

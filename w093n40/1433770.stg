@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Airport/ndb.ac -92.43045 40.745006 265.4 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -92.405833 40.749722 122.97 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -92.379444 40.722778 126.49 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -92.42995 40.72950 0.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -92.42996 40.72977 268.54 0
+# END dsf2stg

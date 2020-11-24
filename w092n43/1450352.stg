@@ -2,3 +2,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -91.855833 43.788889 248.39
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.790833 43.773333 250.23 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.783889 43.775556 304.08 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.76 43.811111 207.77 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.83397 43.82042 0.00 198.54
+OBJECT_SHARED Models/lib/industrial13x24.ac -91.83388 43.82020 365.74 198.34
+OBJECT_SHARED Models/lib/shed10x50.ac -91.83410 43.81984 364.87 286.87
+OBJECT_SHARED Models/lib/shed10x50.ac -91.83459 43.81972 364.10 286.87
+# END dsf2stg

@@ -12,3 +12,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -93.086389 41.33275 170.63 
 OBJECT_SHARED Models/Communications/radio-medium.xml -93.063333 41.361944 137.22 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -93.010333 41.296778 141.67 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -93.004444 41.361111 144.19 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -93.11137 41.30001 0.00 25.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.11233 41.29979 281.26 203.52
+OBJECT_SHARED Models/lib/admin31x12.ac -93.11139 41.29934 281.70 23.96
+OBJECT_SHARED Models/lib/fboModern1.ac -93.11191 41.30001 281.80 114.1
+# END dsf2stg

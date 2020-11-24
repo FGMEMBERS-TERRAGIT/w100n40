@@ -40,3 +40,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.501925 40.998325 351.66 226.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.501776 40.907189 351.64 178.43
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.501586 40.998616 352.42 226.46
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.500242 40.999604 355.17 223.57
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.74935 40.87887 363.19 129.81
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.74864 40.87870 374.44 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.74864 40.87882 374.95 0
+# END dsf2stg

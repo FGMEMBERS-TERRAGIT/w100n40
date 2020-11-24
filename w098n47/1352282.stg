@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -97.351111 47.499167 207.3 
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.306526 47.490647 293.16 90.46
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.306484 47.487148 285.42 90.63
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.306409 47.48349 287.42 90.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -97.32737 47.47680 0.00 359.39
+# END dsf2stg

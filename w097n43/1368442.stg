@@ -7,3 +7,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -96.337778 43.895833 372.96
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.274722 43.954167 386.24 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -96.296422 43.986081 527.18 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.452523 43.999971 491.22 215.9
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -96.29703 43.98589 0.00 307.59
+OBJECT_SHARED Models/lib/SmHangar.ac -96.29752 43.98592 527.28 127.26
+OBJECT_SHARED Models/lib/SmHangar.ac -96.29769 43.98741 527.35 85.6
+OBJECT_SHARED Models/lib/propane-tank.ac -96.29731 43.98601 527.12 217.72
+# END dsf2stg

@@ -168,3 +168,14 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.537204 43.87374 476.27 269.0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.537196 43.874098 475.45 268.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.537186 43.874455 474.63 269.01
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.537179 43.874812 473.82 269.01
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -96.70792 43.81096 0.00 0
+OBJECT_SHARED Models/lib/office8x14.ac -96.70809 43.81084 468.57 90
+OBJECT_SHARED Models/lib/office40x25.ac -96.70925 43.80936 469.22 0
+OBJECT_SHARED Models/lib/office8x14.ac -96.70810 43.81112 471.17 270
+OBJECT_SHARED Models/lib/shed10x50.ac -96.70897 43.80516 468.50 180
+OBJECT_SHARED Models/lib/shed10x50.ac -96.70895 43.80537 470.12 0
+OBJECT_SHARED Models/lib/LongRow.ac -96.70769 43.80908 469.90 90
+# END dsf2stg
